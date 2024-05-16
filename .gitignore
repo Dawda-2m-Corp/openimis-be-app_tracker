@@ -1,2 +1,2 @@
-
 openimis_be_app_tracker.egg-info
+./app_tracker/*/__pycache__/
